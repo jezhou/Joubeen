@@ -331,7 +331,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    background-image:url('http://jezhou.github.io/Joubeen/style/tilepics/4.jpg');
+    background-image:url('http://jezhou.github.io/Joubeen/style/tilepics/4.JPG');
     background-size: contain; 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
@@ -367,7 +367,7 @@ hr {
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: #edcc61;
-    background-image:url('http://jezhou.github.io/Joubeen/style/tilepics/256.jpg');
+    background-image:url('http://jezhou.github.io/Joubeen/style/tilepics/256.JPG');
     background-size: contain; 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
